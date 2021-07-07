@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Computer System
+
 <!--
 **sungm1nn/sungm1nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
