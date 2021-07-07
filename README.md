@@ -4,6 +4,7 @@ I'm Sungmin Jung!
 
 🌱 I’m currently learning Computer System
 
+Participated Projects : https://github.com/denmark111/Stocker
 <!--
 **sungm1nn/sungm1nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
