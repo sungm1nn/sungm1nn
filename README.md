@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Sungmin Jung!
 🌱 I’m currently learning Computer System
 
 <!--
