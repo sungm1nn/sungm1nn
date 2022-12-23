@@ -2,7 +2,7 @@
 
 I'm Sungmin Jung!
 
-🌱 I’m currently learning Computer System
+🌱 I’m currently learning Backend, Python and Computer System
 
 
 <!--
